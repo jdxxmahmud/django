@@ -216,6 +216,13 @@ Minor features
   a hash over all files in the manifest and changes whenever one of the files
   changes.
 
+
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
+
+
 Database backends
 ~~~~~~~~~~~~~~~~~
 
